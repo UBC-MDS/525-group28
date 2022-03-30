@@ -1,6 +1,6 @@
 # Contributing
 
-This outlines how to propose a change to the World Covid Dashboard Project.
+This outlines how to propose a change to the `525-group 28` web computing daily rainfall data project.
 
 ### General Contribution Guidelines
 
