@@ -2,7 +2,7 @@
 
 Contributors: Kingslin Lv, Amir Abbas Shojakhani, and Sufang Tan
 
-This GitHub Repository is our data analysis project for the 2021-22 UBC MDS DSCI 541 course.
+This GitHub Repository is our data analysis project for the 2021-22 UBC MDS DSCI 525 course.
 ## Overview 
 
 The goal of this project is working on a team project involving big data; we will build and deploy ensemble machine learning models in the cloud to predict daily rainfall in Australia on a large dataset (~12 GB), where features are outputs of different climate models, and the target is the actual rainfall observation.
